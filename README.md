@@ -26,7 +26,7 @@ Currently learning and building modern, mobile-friendly web applications using M
 
 ### 🧰 Tech Stack
 #### Web Development
-<img src="https://skillicons.dev/icons?i=python,js,php,react,nodejs,express,mongodb,mysql,firebase,flask,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,js,php,react,nodejs,express,mongodb,mysql,firebase,flask,css,tailwind,figma" />
 
 #### Software Testing
 <img src="https://skillicons.dev/icons?i=java,selenium,postman" />
