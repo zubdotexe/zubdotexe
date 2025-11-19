@@ -19,15 +19,8 @@ Here are some ideas to get you started:
 
 <img src="./banner.png" alt="Banner"/>
 
-# Hi, I'm Zubair 👋
-Software Developer | Automation & AI Enthusiast
-
----
-
-### 🚀 About Me
-- 🔭 Working on full-stack and AI-driven applications
-- 🌱 Learning LLM app development and vector databases
-- 💬 Ask me about APIs, ML, automation & full-stack development
+# Hi, this is Zubair
+Currently learning and building modern, mobile-friendly web applications using MongoDB, Express, React, Node.js, and Firebase. Alongside web development, I have a strong interest in AI and automation, which motivates me to create AI-powered applications.
 
 ---
 
@@ -47,23 +40,22 @@ Software Developer | Automation & AI Enthusiast
 ---
 
 ### 🏗 Featured Projects
-- 🔹 Meme Search AI – Vector DB + LLM powered meme retrieval  
-- 🔹 Finance Web App – Wallet system with stock buy/sell  
-- 🔹 FMCG RTM analysis – Business storytelling system in Bengali
+- 🔹 GoodsGarage - A full stack web app for exporting and importing products  
+- 🔹 GreenNest - A web app with FireBase auth, for plants enthusiasts
+- 🔹 Local Agent with RAG - A local RAG app for interacting with documents locally using LLMs from Ollama
 
 ---
 
 ### 📊 GitHub Stats
-![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+<!--
+![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubdotexe&show_icons=true&layout=compact&theme=radical&hide_rank=true)
+<br />
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubdotexe&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Portfolio: https://your-site.com  
-- Email: your@email.com
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+- LinkedIn: https://www.linkedin.com/in/ahmad-zubair-25022221a  
+- Email: ahmadzubairbu@gmail.com
