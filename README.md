@@ -57,5 +57,5 @@ Currently learning and building modern, mobile-friendly web applications using M
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/ahmad-zubair-25022221a  
+- LinkedIn: https://www.linkedin.com/in/ahmadzubairdev
 - Email: ahmadzubairbu@gmail.com
