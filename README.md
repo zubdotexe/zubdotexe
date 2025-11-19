@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="./banner.png" alt="Banner"/>
+
 # Hi, I'm Zubair 👋
 Software Developer | Automation & AI Enthusiast
 
@@ -30,7 +32,17 @@ Software Developer | Automation & AI Enthusiast
 ---
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,js,react,fastapi,java,c,docker,git,selenium,fastapi" />
+#### Web Development
+<img src="https://skillicons.dev/icons?i=python,js,php,react,nodejs,express,mongodb,mysql,firebase,flask,css,tailwind" />
+
+#### Software Testing
+<img src="https://skillicons.dev/icons?i=java,selenium,postman" />
+
+#### Data Science
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,fastapi" />
+
+#### Developer Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,anaconda" />
 
 ---
 
