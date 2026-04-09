@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./banner.png" alt="Banner"/>
+<img src="./Ahmad_GitBanner.png" alt="Banner"/>
 
 # Hi, this is Zubair
 Currently learning and building modern, mobile-friendly web applications using MongoDB, Express, React, Node.js, and Firebase. Alongside web development, I have a strong interest in AI and automation, which motivates me to create AI-powered applications.
